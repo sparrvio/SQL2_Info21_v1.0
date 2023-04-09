@@ -1,0 +1,13 @@
+id,checking_peer,checked_peer,points_amount
+1,George_Clooney,Leonardo_DiCaprio,1
+2,Leonardo_DiCaprio,George_Clooney,2
+3,Sandra_Bullock,Leonardo_DiCaprio,3
+4,Leonardo_DiCaprio,Sandra_Bullock,5
+5,Kate_Winslet,Leonardo_DiCaprio,4
+6,Leonardo_DiCaprio,Kate_Winslet,0
+7,Morgan_Freeman,Leonardo_DiCaprio,2
+8,Leonardo_DiCaprio,Morgan_Freeman,3
+9,Penеlope_Cruz,Leonardo_DiCaprio,1
+10,Leonardo_DiCaprio,Penеlope_Cruz,2
+11,Clint_Eastwood,Leonardo_DiCaprio,9
+12,Leonardo_DiCaprio,Clint_Eastwood,1

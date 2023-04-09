@@ -1,0 +1,11 @@
+id,peer,date,time,state
+1,Leonardo_DiCaprio,2022-05-02,08:00:00,1
+2,Leonardo_DiCaprio,2022-05-02,18:00:00,2
+3,George_Clooney,2022-05-02,18:30:00,1
+4,George_Clooney,2022-05-02,23:30:00,2
+5,Leonardo_DiCaprio,2022-05-02,18:10:00,1
+6,Leonardo_DiCaprio,2022-05-02,21:00:00,2
+7,Penеlope_Cruz,2022-06-22,10:00:00,1
+8,George_Clooney,2022-06-22,11:00:00,1
+9,George_Clooney,2022-06-22,21:00:00,2
+10,Penеlope_Cruz,2022-06-22,23:00:00,2

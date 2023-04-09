@@ -1,0 +1,11 @@
+id,peer,recommended_peer
+1,Leonardo_DiCaprio,George_Clooney
+2,Leonardo_DiCaprio,Morgan_Freeman
+3,George_Clooney,Sandra_Bullock
+4,Penеlope_Cruz,Leonardo_DiCaprio
+5,Kate_Winslet,Penеlope_Cruz
+6,Kate_Winslet,Clint_Eastwood
+7,Martin_Scorsese,Kate_Winslet
+8,Clint_Eastwood,George_Clooney
+9,Anthony_Hopkins,Martin_Scorsese
+10,Anthony_Hopkins,Natalie_Portman

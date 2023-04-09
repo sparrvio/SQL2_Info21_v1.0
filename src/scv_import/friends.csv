@@ -1,0 +1,11 @@
+id,peer_1,peer_2
+1,Leonardo_DiCaprio,George_Clooney
+2,Leonardo_DiCaprio,Anthony_Hopkins
+3,George_Clooney,Anthony_Hopkins
+4,George_Clooney,Natalie_Portman
+5,Morgan_Freeman,Clint_Eastwood
+6,Kate_Winslet,Clint_Eastwood
+7,Martin_Scorsese,Kate_Winslet
+8,Clint_Eastwood,George_Clooney
+9,Anthony_Hopkins,Martin_Scorsese
+10,Anthony_Hopkins,Natalie_Portman
